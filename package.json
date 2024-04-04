@@ -1,0 +1,12 @@
+{
+  "name": "orange",
+  "version": "1.0.0",
+  "description": "automation",
+  "main": "index.js",
+  "author": "fajars",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.6",
+    "prettier": "^3.2.5"
+  }
+}
